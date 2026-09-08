@@ -1,0 +1,17 @@
+{
+  "name": "es-animate",
+  "version": "1.0.0",
+  "description": "Tiny animation lib for browsers",
+  "keywords": [
+    "Browser",
+    "Animation"
+  ],
+  "license": "MIT",
+  "author": "AJ McClure",
+  "type": "module",
+  "main": "main.js",
+  "types": "./main.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
