@@ -1,5 +1,5 @@
 {
-  "name": "es-animate",
+  "name": "browser-animate",
   "version": "1.0.0",
   "description": "Tiny animation lib for browsers",
   "keywords": [
@@ -13,5 +13,9 @@
   "types": "./main.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SansDeus/es-animate.git"
   }
 }
